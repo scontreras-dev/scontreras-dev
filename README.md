@@ -4,7 +4,7 @@
 
 Cisco-certified, with 2+ years of independent IT consulting (networking, Active Directory, cloud migrations to GCP/Azure) and hands-on operations administration. I turn operational problems into running, tested software.
 
-📫 sdavic145@gmail.com · [LinkedIn](https://linkedin.com/in/sdavic) · [Portfolio](https://rebel-forest-574.notion.site/Sergio-Contreras-IT-Cloud-Portfolio-39a2b120aae4816b84d9c4598c3f9af2)
+📫 sdavic145@gmail.com · [LinkedIn](https://linkedin.com/in/sdavic) · [Portfolio](https://scontreras.is-a.dev)
 
 ## Projects
 
